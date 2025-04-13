@@ -1,0 +1,5 @@
+家庭财务系统
+配合后端使用（familyfinancialsystem）
+
+整合了一个ai问答模型 用的是 qwen-plus 使用时需要自己去配置APIKEY到环境变量
+
